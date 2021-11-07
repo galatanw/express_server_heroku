@@ -1,0 +1,7 @@
+DELETE  http://localhost:8080/6185268b8cbf8ea99ffe6972
+Content-Type: application/json
+
+{
+"images":["./images/laptops/LENOVO/LenovoIdeaPad/main.jpg","./images/laptops/LENOVO/LenovoIdeaPad/second.jpg","./images/laptops/LENOVO/LenovoIdeaPad/third.jpg","./images/laptops/LENOVO/LenovoIdeaPad/four.jpg"],"sale":10,"price":2000,"category":"AAAA","brand":"LENOasdasdsadVO","INSURANCE":"1 year by the official importer","WEIGHT":"1Kg","color":"blue","description":"Lenovo IdeaPad","one":"60wh lithium-polymer battery","qnt":"200","two":"Intel i5 8-core CPU"
+}
+
